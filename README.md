@@ -55,14 +55,4 @@ npm run dev
 
 By default, the web application runs on `http://localhost:5173`
 
-  
 
-## Contributing
-
-Contributions are welcome! If you have a feature request or bug report, please open an issue. If you want to contribute code, please fork the repository and submit a pull request.
-
-  
-
-## License
-
-This project is licensed under the MIT License - see the LICENSE file for details.
